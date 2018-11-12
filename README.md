@@ -6,4 +6,4 @@ Everything learned for medical AI, especially medical imaging such as CT, MRI, P
 * [8-bit and 16-bit image & Pixel and Voxel](https://github.com/LoKerpiqo/Medical-AI-Knowledge/blob/master/doc/8-bit%2616bit.md)
 * [A tutorial for U-net segmentation-lung nodule](https://github.com/booz-allen-hamilton/DSB3Tutorial/blob/master/Tutorial.ipynb)
 
-* [free software for medical image seg and volume](https://www.researchgate.net/post/Can_anyone_suggest_free_software_for_medical_images_segmentation_and_volume)
+* [free software for medical image seg and volume](https://github.com/LoKerpiqo/Medical-AI-Knowledge/blob/master/doc/Software.md)
