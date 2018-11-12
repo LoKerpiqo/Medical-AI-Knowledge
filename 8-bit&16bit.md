@@ -18,10 +18,11 @@ A pixel represents the smallest sampled 2D element in an image. It has dimension
 
 >更小的体素（更薄z更小xy）可以得到更高的spatial resolution，但与此同时会得到更低的SNR（信号噪音比下降，看起来更加多的纹理‘grainy’）
 
-![image](https://github.com/LoKerpiqo/Medical-AI-Knowledge/raw/master/img/xy.JPG)
+>the right is smaller pixel in xy
+![the right is smaller pixel in xy ](https://github.com/LoKerpiqo/Medical-AI-Knowledge/raw/master/img/xy.JPG)
 
->更thinner，图片2
+>the left is thinner
 
-![image](https://github.com/LoKerpiqo/Medical-AI-Knowledge/raw/master/img/thickness.JPG)
+![the left is thinner ](https://github.com/LoKerpiqo/Medical-AI-Knowledge/raw/master/img/thickness.JPG)
 
 
