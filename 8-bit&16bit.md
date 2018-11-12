@@ -17,9 +17,9 @@ A pixel represents the smallest sampled 2D element in an image. It has dimension
 **Signal-to-noisy-Ratio (SNR)** is *directly proportional* to **voxel size** (assuming that the number of phase encoding steps is held constant). Small voxels produce MRI images with high spatial resolution but a lower signal-to-noisy ratio, and thus may appear "grainy" compared with images acquired with a larger voxel volume.
 
 >更小的体素（更薄z更小xy）可以得到更高的spatial resolution，但与此同时会得到更低的SNR（信号噪音比下降，看起来更加多的纹理‘grainy’）
-图片1
+![image](https://github.com/LoKerpiqo/Medical-AI-Knowledge/tree/master/img/xy.jpg)
 
 >更thinner，图片2
-![thickness](C:\Users\LocalAdmin\Pictures\thickness.jpg)
+![image](https://github.com/LoKerpiqo/Medical-AI-Knowledge/tree/master/img/thickness.jpg)
 
 
