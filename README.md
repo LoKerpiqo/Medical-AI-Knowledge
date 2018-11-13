@@ -7,3 +7,6 @@ Everything learned for medical AI, especially medical imaging such as CT, MRI, P
 * [A tutorial for U-net segmentation-lung nodule](https://github.com/booz-allen-hamilton/DSB3Tutorial/blob/master/Tutorial.ipynb)
 
 * [free software for medical image seg and volume](https://github.com/LoKerpiqo/Medical-AI-Knowledge/blob/master/doc/Software.md)
+
+*************
+* [sitk tutorials, Learn it Now !](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/)
